@@ -1,0 +1,28 @@
+body {
+	background-color: lightblue;
+}
+
+h1,h2,h3,p {
+	text-align: center;
+	padding: 20px;
+}
+
+h1,
+#status {
+	font-size: 40px;
+	color: purple;
+}
+
+#wins,
+#remain {
+	text-decoration: underline;
+	background-color: yellow;
+}
+
+#word,
+#guessed {
+	color: red;
+	background-color: lightgreen;
+	font-weight: bold;
+	font-size: 50px;
+}
